@@ -1,2 +1,0 @@
-# voteProject
-cmb voteCms project
